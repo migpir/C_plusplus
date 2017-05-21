@@ -9,6 +9,13 @@
 #include <iostream>
 using namespace std;
 
+class Animals{
+
+
+};
+
+
+
 int main() {
 	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
 	return EXIT_SUCCESS;;
