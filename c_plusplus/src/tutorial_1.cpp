@@ -5,15 +5,9 @@
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
 //============================================================================
-
+#include <fstream>
 #include <iostream>
 using namespace std;
-
-class Animals{
-
-
-};
-
 
 
 int main() {
